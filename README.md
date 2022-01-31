@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gtam12
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning AWS cloud computing, backend development
-- 💞️ I’m looking to collaborate on fronend Development
+- 💞️ I’m looking to collaborate on frontend Development
 - 📫 How to reach me - you can reach me at gtamsde@gmail.com
 
 <!---
