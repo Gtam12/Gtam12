@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gtam12
-- 👀 I’m interested in software development
+- 👀 I’m a Software Developer
 - 📫 How to reach me - you can reach me at gtamsde@gmail.com
 
 <!---
